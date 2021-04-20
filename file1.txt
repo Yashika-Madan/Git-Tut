@@ -1,1 +1,1 @@
-version 1 of git tut
+version 1 of git tut on github
